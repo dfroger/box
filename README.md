@@ -1,0 +1,2 @@
+# box
+Vagrant box config
